@@ -814,7 +814,6 @@
 
     ![media/mech/Untitled%20186.png](media/mech/Untitled%20186.png)
 
-    2
 
 ## Reasoning
 
